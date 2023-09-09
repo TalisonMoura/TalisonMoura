@@ -1,4 +1,4 @@
-### Hi there, I'm Talison Moura 👋
+### Hi there, I'm Talison Moura 👨🏽‍💻
 
 
 - 🔭 I’m currently working on Back-end
